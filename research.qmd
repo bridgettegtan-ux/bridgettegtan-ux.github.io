@@ -1,0 +1,9 @@
+---
+title: "Research"
+---
+
+## Working papers
+- Title, status
+
+## Publications
+- Title, journal, year
