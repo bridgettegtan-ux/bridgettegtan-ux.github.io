@@ -10,13 +10,13 @@ $if(title)$
   $styles$
 </head>
 <body>
-  $include-before-body$
-
- <header id="quarto-header">
-    ...
+  <header id="quarto-header" class="headroom fixed-top">
+    $include-before-body$
+    $navbar$
   </header>
 
-  ...
+  $body$
+
 </body>
 </html>
 $endif$
