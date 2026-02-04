@@ -104,3 +104,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0.6rem;
   color: rgba(0,0,0,0.45);
 }
+.profile-photo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+}
