@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "Hello! My name is Grace Tanner, and I am currently a PhD student studying Political Science at the University of South Carolina.\nThis site contains my research, teaching materials, and professional work.\n\n\n\n\n LinkedIn  •  GitHub  •  University Bio"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! My name is Grace Tanner, and I am currently a PhD student studying Political Science at the University of South Carolina.\nThis site contains my research, teaching materials, and professional work."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\n\nCourse — term"
   },
   {
     "objectID": "research.html",
@@ -26,26 +40,5 @@
     "title": "Research",
     "section": "Publications",
     "text": "Publications\n\nTitle, journal, year"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching\n\nCourse — term"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Hello! My name is Grace Tanner, and I am currently a PhD student studying Political Science at the University of South Carolina.\nThis site contains my research, teaching materials, and professional work.\n\n\n\n\n LinkedIn  •  GitHub  •  University Bio"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "About Me",
-    "section": "",
-    "text": "Hello! My name is Grace Tanner, and I am currently a PhD student studying Political Science at the University of South Carolina.\nThis site contains my research, teaching materials, and professional work."
   }
 ]

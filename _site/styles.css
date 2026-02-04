@@ -1,7 +1,6 @@
-/* css styles */
-/* =========================
-   Background: navy gradient
-   ========================= */
+/* =========================================
+   GLOBAL BODY STYLES
+   ========================================= */
 
 body {
   background: linear-gradient(
@@ -10,13 +9,13 @@ body {
     #0a2540 60%,
     #081a2f 100%
   );
+  font-family: "Times New Roman", Times, serif;
 }
 
-/* =========================
-   Main content container
-   ========================= */
-/* Main content container – light blue */
-/* Light blue only behind text content */
+/* =========================================
+   MAIN CONTENT CONTAINER
+   ========================================= */
+
 .quarto-title-block,
 main .content {
   background-color: #e8f1fb; /* light blue */
@@ -25,11 +24,9 @@ main .content {
   padding: 2rem;
 }
 
-
-
-/* =========================
-   Teal navbar
-   ========================= */
+/* =========================================
+   NAVBAR (TEAL)
+   ========================================= */
 
 .navbar {
   background-color: #0f766e !important;
@@ -46,12 +43,17 @@ main .content {
   color: #c7f9f1 !important;
 }
 
-/* =========================
-   Headings + links
-   ========================= */
+/* =========================================
+   HEADINGS + LINKS
+   ========================================= */
 
 h1, h2, h3 {
   color: #0b1f3a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
 }
 
 a {
@@ -61,26 +63,26 @@ a {
 a:hover {
   color: #14b8a6;
 }
-/* Set site-wide font to Times New Roman */
-body {
-  font-family: "Times New Roman", Times, serif;
-}
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Times New Roman", Times, serif;
-  font-weight: 600;
-}
-/* Home page profile photo */
+
+/* =========================================
+   PROFILE PHOTO
+   ========================================= */
+
 .profile-photo {
-  border: 6px solid #e8f1fb;   /* light blue */
+  border: 6px solid #e8f1fb;
   border-radius: 12px;
   padding: 4px;
   max-width: 100%;
-}
-.profile-photo {
+  height: auto;
+  display: block;
+  margin-left: auto;
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
-/* LinkedIn link at bottom of home page */
-/* Links at bottom of home page */
+
+/* =========================================
+   HOME PAGE FOOTER LINKS
+   ========================================= */
+
 .home-footer {
   margin-top: 3rem;
   padding-top: 1.5rem;
@@ -90,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .home-footer a {
-  color: #0f766e;           /* teal to match navbar */
+  color: #0f766e;
   font-weight: 500;
   text-decoration: none;
 }
@@ -104,3 +106,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0.6rem;
   color: rgba(0,0,0,0.45);
 }
+
+
+
+
+
+

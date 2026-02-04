@@ -19,7 +19,6 @@ This site contains my research, teaching materials, and professional work.
 :::
 
 
-
 <div class="home-footer">
   <a href="https://www.linkedin.com/in/grace-tanner/" target="_blank" rel="noopener">
     LinkedIn
@@ -33,6 +32,8 @@ This site contains my research, teaching materials, and professional work.
     University Bio
   </a>
 </div>
+
+
 
 
 
