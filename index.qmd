@@ -1,7 +1,38 @@
 ---
-title: "Website"
+title: "About Me"
+page-layout: full
+title-block: false
 ---
+::: {.columns}
 
-This is a Quarto website.
+::: {.column width="65%"}
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! My name is Grace Tanner, and I am currently a PhD student studying
+Political Science at the University of South Carolina.
+
+This site contains my research, teaching materials, and professional work.
+:::
+
+::: {.column width="35%"}
+![](images/profile.jpg){.profile-photo}
+:::
+
+
+
+<div class="home-footer">
+  <a href="https://www.linkedin.com/in/grace-tanner/" target="_blank" rel="noopener">
+    LinkedIn
+  </a>
+  <span class="footer-sep">•</span>
+  <a href="https://github.com/bridgettegtan-ux" target="_blank" rel="noopener">
+    GitHub
+  </a>
+  <span class="footer-sep">•</span>
+  <a href="https://sc.edu/study/colleges_schools/artsandsciences/political_science/our_people/grad/grace_tanner.php" target="_blank" rel="noopener">
+    University Bio
+  </a>
+</div>
+
+
+
