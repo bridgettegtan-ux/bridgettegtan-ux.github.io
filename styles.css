@@ -107,8 +107,12 @@ a:hover {
   color: rgba(0,0,0,0.45);
 }
 
-
-
+h2 {
+  color: #7aaad6; /* light blue */
+}
+h3 {
+  color: #7aaad6; /* light blue */
+}
 
 
 
