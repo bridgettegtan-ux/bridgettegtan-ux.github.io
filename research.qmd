@@ -2,8 +2,37 @@
 title: "Research"
 ---
 
-## Working papers
-- Title, status
+## Ongoing Projects
+- **Book Chapter:** David Darmofal and Grace Tanner (2026). “Advances in Quantitative Spatial Analysis.” In theDe Gruyter Handbook of American Political Geography, Edited by Nicholas Jacob and KalMunis. De Gruyter Brill, Boston, MA
 
 ## Publications
-- Title, journal, year
+
+
+## Past Works
+
+### Who’s in Charge: Government Type and Coalition Command Structure
+- **Paper:** “Who’s in Charge: Government Type and Coalition Command Structure.”  
+  [Download paper (PDF)](files/Who%E2%80%99s_in_Charge%3F%20%20%20.pdf.pdf)
+- **Poster:** “Who’s in Charge: Government Type and Coalition Command Structure.”  
+  [View poster (PDF)](files/coalitions_poster.pdf.pdf)
+
+### The Blue Scare: How Cuban Voters Impact the Hispanic Electorate in Florida
+- **Poster:** “The Blue Scare: How Cuban Voters Impact the Hispanic Electorate in Florida.”  
+  [View poster (PDF)](files/Cuban_Poster.pdf)
+
+## Curriculum Vitae
+
+<a href="files/CV.pdf" class="btn btn-primary" target="_blank">
+  Download CV (PDF)
+</a>
+
+
+<br><br>
+
+<iframe
+  src="files/CV.pdf"
+  width="100%"
+  height="1100px"
+  style="border: none;">
+</iframe>
+<div style="margin-bottom: 1.5rem;">

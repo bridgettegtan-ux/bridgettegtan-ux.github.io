@@ -12,12 +12,33 @@ Hello! My name is Grace Tanner, and I am currently a PhD student studying
 Political Science at the University of South Carolina.
 
 This site contains my research, teaching materials, and professional work.
+
+<p>
+  <a href="files/Grace_Tanner_CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
+</p>
 :::
 
 ::: {.column width="35%"}
 ![](images/profile.jpg){.profile-photo}
 :::
 
+::: {.columns .mt-4}
+::: {.column width="50%"}
+### Interests
+- Political Psychology 
+- Public Opinion
+- Political Behavior 
+- Conflict Studies 
+- Experimental and quantitative political methods 
+:::
+
+::: {.column width="50%"}
+### Education
+- **PhD in Political Science**, ongoing — University of South Carolina
+- **BA in Political Science**, 2025 — University of Kentucky  
+- **Certificate in Peace Studies**, 2025 — University of Kentucky  
+:::
+:::
 
 <div class="home-footer">
   <a href="https://www.linkedin.com/in/grace-tanner/" target="_blank" rel="noopener">

@@ -2,6 +2,16 @@
 title: "Teaching"
 ---
 
-# Teaching
+## Teaching Experience
 
-- Course — term
+### Teaching Assistant  
+**University of South Carolina**
+
+- **POLI 201 – American National Government**  
+  Instructor: Dr. David Darmofal
+
+- **POLI 304 – Contemporary Political Theory**  
+  Instructor: Dr. Samuel Bagg
+
+- **POLI 300 – Social and Political Philosophy**  
+  Instructor: Dr. Samuel Bagg
